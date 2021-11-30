@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cellular Automata](https://benpm.github.io/images/cellular_automata/gol_1.gif)
+
 ## 📫 How to reach me:
 [TU-Mail](mailto:b.trautsch@tu-braunschweig.de)
 
