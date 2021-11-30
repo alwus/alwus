@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![Cellular Automata](https://benpm.github.io/images/cellular_automata/gol_1.gif)
+![Cozy gif](https://im2.ezgif.com/tmp/ezgif-2-f7c5e4dfe03b.gif)
 
 ## 📫 How to reach me:
 [TU-Mail](mailto:b.trautsch@tu-braunschweig.de)
 
 ## Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwus&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwus&show_icons=true&theme=gruvbox)
 
 <!--
 **alwus/alwus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
