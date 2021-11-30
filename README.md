@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 📫 How to reach me:
+[TU-Mail](mailto:b.trautsch@tu-braunschweig.de)
+
 <!--
 **alwus/alwus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
