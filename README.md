@@ -1,5 +1,3 @@
-![Cozy gif](https://im2.ezgif.com/tmp/ezgif-2-f7c5e4dfe03b.gif)
-
 ### Hi there 👋
 
 ## 📫 How to reach me:
